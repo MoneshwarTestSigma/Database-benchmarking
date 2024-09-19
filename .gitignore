@@ -1,0 +1,32 @@
+# Specify filepatterns you want git to ignore.
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven directories
+/target/
+/bin/
+
+# Gradle directories
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+
